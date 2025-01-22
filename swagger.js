@@ -3,7 +3,7 @@ require('dotenv').config();
 
 const doc = {
   info: {
-    title: 'Parikrama V.1',
+    title: 'Your App Name',
     description: 'API Documentation',
   },
   host: `localhost:${process.env.APP_PORT}`,
