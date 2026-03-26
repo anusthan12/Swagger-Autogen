@@ -78,4 +78,6 @@ Main application setup:
 
 ## Author
 
-[@anusthan12](https://github.com/anusthan12)
+<div align="center">
+  <p>Built and maintained by <a href="https://github.com/anusthan12">Anusthan Singh</a> · © 2025</p>
+</div>
